@@ -1,0 +1,1200 @@
+{
+ "Williamsport": {
+  "registered": [
+   {
+    "num": "1",
+    "school": "Purdue Univ - W Lafayette"
+   },
+   {
+    "num": "2",
+    "school": "Rochester Institute of Technology"
+   },
+   {
+    "num": "3",
+    "school": "Oregon State Univ"
+   },
+   {
+    "num": "4",
+    "school": "Johns Hopkins Univ"
+   },
+   {
+    "num": "5",
+    "school": "Virginia Tech"
+   },
+   {
+    "num": "6",
+    "school": "Univ of Michigan - Ann Arbor"
+   },
+   {
+    "num": "7",
+    "school": "Universite de Sherbrooke"
+   },
+   {
+    "num": "8",
+    "school": "Cornell Univ"
+   },
+   {
+    "num": "9",
+    "school": "Case Western Reserve Univ"
+   },
+   {
+    "num": "10",
+    "school": "Ecole de Technologie Superieure"
+   },
+   {
+    "num": "11",
+    "school": "Univ of Maryland - Baltimore County"
+   },
+   {
+    "num": "12",
+    "school": "The Ohio State University"
+   },
+   {
+    "num": "13",
+    "school": "Queen's Univ"
+   },
+   {
+    "num": "14",
+    "school": "Michigan State University"
+   },
+   {
+    "num": "15",
+    "school": "Univ of Nevada - Las Vegas"
+   },
+   {
+    "num": "16",
+    "school": "California Polytechnic State Univ-SLO"
+   },
+   {
+    "num": "20",
+    "school": "Georgia Institute of Technology"
+   },
+   {
+    "num": "21",
+    "school": "San Diego State Univ"
+   },
+   {
+    "num": "22",
+    "school": "Tennessee Tech Univ"
+   },
+   {
+    "num": "23",
+    "school": "Western University"
+   },
+   {
+    "num": "25",
+    "school": "Univ of Illinois - Urbana Champaign"
+   },
+   {
+    "num": "26",
+    "school": "McGill Univ"
+   },
+   {
+    "num": "27",
+    "school": "Grove City College"
+   },
+   {
+    "num": "28",
+    "school": "Pennsylvania College of Technology"
+   },
+   {
+    "num": "29",
+    "school": "Iowa State Univ"
+   },
+   {
+    "num": "30",
+    "school": "Youngstown State Univ"
+   },
+   {
+    "num": "31",
+    "school": "Georgia Southern Univ"
+   },
+   {
+    "num": "32",
+    "school": "Binghamton Univ"
+   },
+   {
+    "num": "33",
+    "school": "University of Mount Union"
+   },
+   {
+    "num": "34",
+    "school": "Univ of Central Florida"
+   },
+   {
+    "num": "35",
+    "school": "Univ of Akron"
+   },
+   {
+    "num": "36",
+    "school": "New Jersey Institute of Technology"
+   },
+   {
+    "num": "38",
+    "school": "SUNY - Buffalo"
+   },
+   {
+    "num": "39",
+    "school": "West Virginia Univ"
+   },
+   {
+    "num": "40",
+    "school": "Kettering Univ"
+   },
+   {
+    "num": "41",
+    "school": "Univ of Calgary"
+   },
+   {
+    "num": "44",
+    "school": "SUNY- Farmingdale"
+   },
+   {
+    "num": "47",
+    "school": "Univ of Missouri - Kansas City"
+   },
+   {
+    "num": "48",
+    "school": "California State Poly Univ - Pomona"
+   },
+   {
+    "num": "49",
+    "school": "Univ of Wisconsin - Madison"
+   },
+   {
+    "num": "50",
+    "school": "Univ of Cincinnati"
+   },
+   {
+    "num": "51",
+    "school": "Western New England University"
+   },
+   {
+    "num": "57",
+    "school": "South Dakota School of Mines & Tech"
+   },
+   {
+    "num": "59",
+    "school": "ITESM - Queretaro"
+   },
+   {
+    "num": "60",
+    "school": "Univ of Rochester"
+   },
+   {
+    "num": "61",
+    "school": "Michigan Tech Univ"
+   },
+   {
+    "num": "65",
+    "school": "Univ of Arizona"
+   },
+   {
+    "num": "67",
+    "school": "Univ of Alabama - Tuscaloosa"
+   },
+   {
+    "num": "68",
+    "school": "Manhattan College"
+   },
+   {
+    "num": "69",
+    "school": "ITESM - Campus Guadalajara"
+   },
+   {
+    "num": "70",
+    "school": "Bucknell Univ"
+   },
+   {
+    "num": "71",
+    "school": "Univ of Iowa"
+   },
+   {
+    "num": "73",
+    "school": "Auburn Univ"
+   },
+   {
+    "num": "74",
+    "school": "SUNY - Stony Brook"
+   },
+   {
+    "num": "76",
+    "school": "LeTourneau Univ"
+   },
+   {
+    "num": "77",
+    "school": "Oklahoma State University - Stillwater"
+   },
+   {
+    "num": "78",
+    "school": "Rowan Univ"
+   },
+   {
+    "num": "79",
+    "school": "UQTR Drummondville"
+   },
+   {
+    "num": "80",
+    "school": "San Jose State University"
+   },
+   {
+    "num": "83",
+    "school": "Liberty Univ"
+   },
+   {
+    "num": "87",
+    "school": "Univ of Colorado - Boulder"
+   },
+   {
+    "num": "89",
+    "school": "Penn State Univ - Altoona"
+   },
+   {
+    "num": "92",
+    "school": "Texas A&M Univ"
+   },
+   {
+    "num": "94",
+    "school": "Univ of Tennessee"
+   },
+   {
+    "num": "95",
+    "school": "Eastern Michigan Univ"
+   },
+   {
+    "num": "96",
+    "school": "Missouri University of Science and Tech"
+   },
+   {
+    "num": "97",
+    "school": "New York University"
+   },
+   {
+    "num": "103",
+    "school": "Univ of British Columbia"
+   },
+   {
+    "num": "109",
+    "school": "Kansas State Univ"
+   },
+   {
+    "num": "111",
+    "school": "Univ of Tennessee -Chattanooga"
+   },
+   {
+    "num": "112",
+    "school": "Milwaukee School of Engrg"
+   },
+   {
+    "num": "113",
+    "school": "St Clair County Community College"
+   },
+   {
+    "num": "117",
+    "school": "Montana State Univ - Bozeman"
+   },
+   {
+    "num": "120",
+    "school": "Gonzaga University"
+   },
+   {
+    "num": "121",
+    "school": "Univ of San Diego"
+   },
+   {
+    "num": "124",
+    "school": "Embry-Riddle Aero Univ - Daytona Beach"
+   },
+   {
+    "num": "125",
+    "school": "Clemson Univ"
+   },
+   {
+    "num": "126",
+    "school": "Lehigh Univ"
+   },
+   {
+    "num": "133",
+    "school": "Union College"
+   },
+   {
+    "num": "134",
+    "school": "Oklahoma Christian Univ"
+   },
+   {
+    "num": "136",
+    "school": "West Virginia Univ Inst of Tech"
+   },
+   {
+    "num": "138",
+    "school": "Lipscomb Univ"
+   },
+   {
+    "num": "141",
+    "school": "Olivet Nazarene Univ"
+   },
+   {
+    "num": "143",
+    "school": "Wentworth Inst of Tech"
+   },
+   {
+    "num": "144",
+    "school": "Univ of Texas - Austin"
+   },
+   {
+    "num": "146",
+    "school": "Western Michigan Univ"
+   },
+   {
+    "num": "149",
+    "school": "Lawrence Technological Univ"
+   },
+   {
+    "num": "151",
+    "school": "Fairfield Univ"
+   },
+   {
+    "num": "154",
+    "school": "Univ of Wyoming"
+   },
+   {
+    "num": "156",
+    "school": "Univ of Michigan - Flint"
+   },
+   {
+    "num": "160",
+    "school": "Shippensburg University"
+   },
+   {
+    "num": "163",
+    "school": "Davidson College"
+   },
+   {
+    "num": "165",
+    "school": "Univ of Nebraska - Lincoln"
+   },
+   {
+    "num": "167",
+    "school": "Villanova Univ"
+   },
+   {
+    "num": "168",
+    "school": "Old Dominion Univ"
+   },
+   {
+    "num": "171",
+    "school": "Northern Arizona - Yuma"
+   },
+   {
+    "num": "172",
+    "school": "Grace College"
+   },
+   {
+    "num": "180",
+    "school": "Ecole Nationale D'Aerotechnique"
+   },
+   {
+    "num": "189",
+    "school": "K J Somaiya School Of Engineering"
+   },
+   {
+    "num": "196",
+    "school": "Universidad Autonoma De Nuevo Leon"
+   },
+   {
+    "num": "205",
+    "school": "Quinnipiac University"
+   },
+   {
+    "num": "207",
+    "school": "George Washington Univ"
+   },
+   {
+    "num": "209",
+    "school": "Toronto Metropolitan University"
+   },
+   {
+    "num": "210",
+    "school": "Univ of Wisconsin - Stout"
+   },
+   {
+    "num": "212",
+    "school": "Dordt University"
+   },
+   {
+    "num": "214",
+    "school": "Univ of Tennessee - Martin"
+   },
+   {
+    "num": "215",
+    "school": "South Dakota State Univ"
+   },
+   {
+    "num": "218",
+    "school": "Murray State Univ"
+   },
+   {
+    "num": "219",
+    "school": "Syracuse Univ"
+   },
+   {
+    "num": "224",
+    "school": "SAE Brasil"
+   }
+  ],
+  "waitlist": [
+   {
+    "pos": "29",
+    "num": "162",
+    "school": "Univ of Regina"
+   },
+   {
+    "pos": "30",
+    "num": "91",
+    "school": "Ohio Univ"
+   },
+   {
+    "pos": "31",
+    "num": "66",
+    "school": "Univ of Manitoba"
+   },
+   {
+    "pos": "32",
+    "num": "211",
+    "school": "Univ of Louisville"
+   },
+   {
+    "pos": "33",
+    "num": "199",
+    "school": "Bradley Univ"
+   },
+   {
+    "pos": "34",
+    "num": "188",
+    "school": "Pittsburg State University"
+   },
+   {
+    "pos": "35",
+    "num": "100",
+    "school": "Stevens Institute of Technology"
+   },
+   {
+    "pos": "36",
+    "num": "131",
+    "school": "Univ of Windsor"
+   },
+   {
+    "pos": "38",
+    "num": "148",
+    "school": "Univ of Guelph"
+   },
+   {
+    "pos": "39",
+    "num": "42",
+    "school": "North Carolina A & T State Univ"
+   },
+   {
+    "pos": "40",
+    "num": "193",
+    "school": "Abilene Christian University"
+   },
+   {
+    "pos": "41",
+    "num": "46",
+    "school": "Cincinnati State Technical Comm College"
+   },
+   {
+    "pos": "42",
+    "num": "56",
+    "school": "IPN - UPIITA"
+   },
+   {
+    "pos": "43",
+    "num": "217",
+    "school": "Manipal Institute of Tech"
+   },
+   {
+    "pos": "45",
+    "num": "204",
+    "school": "Univ of Memphis"
+   },
+   {
+    "pos": "46",
+    "num": "62",
+    "school": "Univ of Calif - Irvine"
+   },
+   {
+    "pos": "47",
+    "num": "216",
+    "school": "Universidad Nacional de Ingeniería"
+   },
+   {
+    "pos": "48",
+    "num": "18",
+    "school": "North Carolina State Univ - Raleigh"
+   },
+   {
+    "pos": "49",
+    "num": "177",
+    "school": "University of Massachusetts - Dartmouth"
+   },
+   {
+    "pos": "50",
+    "num": "54",
+    "school": "Purdue Univ - Northwest"
+   },
+   {
+    "pos": "51",
+    "num": "53",
+    "school": "Univ of Maryland - College Park"
+   },
+   {
+    "pos": "52",
+    "num": "99",
+    "school": "Southern Illinois Univ - Edwardville"
+   },
+   {
+    "pos": "53",
+    "num": "58",
+    "school": "Clarkson University"
+   },
+   {
+    "pos": "54",
+    "num": "135",
+    "school": "Univ of Ottawa"
+   },
+   {
+    "pos": "55",
+    "num": "191",
+    "school": "MIT World Peace University"
+   },
+   {
+    "pos": "57",
+    "num": "110",
+    "school": "Tarleton State Univ - Central Texas"
+   },
+   {
+    "pos": "58",
+    "num": "152",
+    "school": "Northern Kentucky Univ"
+   },
+   {
+    "pos": "59",
+    "num": "55",
+    "school": "Ohio Northern Univ"
+   },
+   {
+    "pos": "61",
+    "num": "86",
+    "school": "New Mexico Inst of Mining & Tech"
+   },
+   {
+    "pos": "62",
+    "num": "98",
+    "school": "Central Michigan Univ"
+   },
+   {
+    "pos": "63",
+    "num": "213",
+    "school": "Marquette Univ"
+   },
+   {
+    "pos": "64",
+    "num": "17",
+    "school": "Université Laval"
+   },
+   {
+    "pos": "65",
+    "num": "24",
+    "school": "Northeastern Univ"
+   },
+   {
+    "pos": "66",
+    "num": "37",
+    "school": "Univ of Calif - Los Angeles"
+   },
+   {
+    "pos": "67",
+    "num": "88",
+    "school": "Northwestern Univ"
+   },
+   {
+    "pos": "68",
+    "num": "85",
+    "school": "Cleveland State Univ"
+   },
+   {
+    "pos": "69",
+    "num": "19",
+    "school": "McMaster Univ"
+   },
+   {
+    "pos": "70",
+    "num": "226",
+    "school": "York University"
+   },
+   {
+    "pos": "71",
+    "num": "122",
+    "school": "Univ of Pittsburgh - Johnstown"
+   },
+   {
+    "pos": "72",
+    "num": "132",
+    "school": "Univ of Calif - San Diego"
+   },
+   {
+    "pos": "73",
+    "num": "228",
+    "school": "Univ of Toronto"
+   },
+   {
+    "pos": "74",
+    "num": "231",
+    "school": "Univ of Wisconsin - Milwaukee"
+   },
+   {
+    "pos": "75",
+    "num": "147",
+    "school": "Univ of Waterloo"
+   },
+   {
+    "pos": "76",
+    "num": "232",
+    "school": "Univ of Puerto Rico-Mayaquez"
+   },
+   {
+    "pos": "77",
+    "num": "43",
+    "school": "British Columbia Inst of Tech"
+   }
+  ]
+ },
+ "Michigan": {
+  "registered": [
+   {
+    "num": "1",
+    "school": "Purdue Univ - W Lafayette"
+   },
+   {
+    "num": "2",
+    "school": "Rochester Institute of Technology"
+   },
+   {
+    "num": "3",
+    "school": "Oregon State Univ"
+   },
+   {
+    "num": "4",
+    "school": "Johns Hopkins Univ"
+   },
+   {
+    "num": "5",
+    "school": "Virginia Tech"
+   },
+   {
+    "num": "6",
+    "school": "Univ of Michigan - Ann Arbor"
+   },
+   {
+    "num": "7",
+    "school": "Universite de Sherbrooke"
+   },
+   {
+    "num": "8",
+    "school": "Cornell Univ"
+   },
+   {
+    "num": "9",
+    "school": "Case Western Reserve Univ"
+   },
+   {
+    "num": "10",
+    "school": "Ecole de Technologie Superieure"
+   },
+   {
+    "num": "11",
+    "school": "Univ of Maryland - Baltimore County"
+   },
+   {
+    "num": "12",
+    "school": "The Ohio State University"
+   },
+   {
+    "num": "13",
+    "school": "Queen's Univ"
+   },
+   {
+    "num": "14",
+    "school": "Michigan State University"
+   },
+   {
+    "num": "15",
+    "school": "Univ of Nevada - Las Vegas"
+   },
+   {
+    "num": "18",
+    "school": "North Carolina State Univ - Raleigh"
+   },
+   {
+    "num": "20",
+    "school": "Georgia Institute of Technology"
+   },
+   {
+    "num": "21",
+    "school": "San Diego State Univ"
+   },
+   {
+    "num": "22",
+    "school": "Tennessee Tech Univ"
+   },
+   {
+    "num": "24",
+    "school": "Northeastern Univ"
+   },
+   {
+    "num": "25",
+    "school": "Univ of Illinois - Urbana Champaign"
+   },
+   {
+    "num": "26",
+    "school": "McGill Univ"
+   },
+   {
+    "num": "27",
+    "school": "Grove City College"
+   },
+   {
+    "num": "28",
+    "school": "Pennsylvania College of Technology"
+   },
+   {
+    "num": "30",
+    "school": "Youngstown State Univ"
+   },
+   {
+    "num": "31",
+    "school": "Georgia Southern Univ"
+   },
+   {
+    "num": "32",
+    "school": "Binghamton Univ"
+   },
+   {
+    "num": "33",
+    "school": "University of Mount Union"
+   },
+   {
+    "num": "36",
+    "school": "New Jersey Institute of Technology"
+   },
+   {
+    "num": "38",
+    "school": "SUNY - Buffalo"
+   },
+   {
+    "num": "40",
+    "school": "Kettering Univ"
+   },
+   {
+    "num": "42",
+    "school": "North Carolina A & T State Univ"
+   },
+   {
+    "num": "43",
+    "school": "British Columbia Inst of Tech"
+   },
+   {
+    "num": "44",
+    "school": "SUNY- Farmingdale"
+   },
+   {
+    "num": "46",
+    "school": "Cincinnati State Technical Comm College"
+   },
+   {
+    "num": "50",
+    "school": "Univ of Cincinnati"
+   },
+   {
+    "num": "51",
+    "school": "Western New England University"
+   },
+   {
+    "num": "53",
+    "school": "Univ of Maryland - College Park"
+   },
+   {
+    "num": "54",
+    "school": "Purdue Univ - Northwest"
+   },
+   {
+    "num": "55",
+    "school": "Ohio Northern Univ"
+   },
+   {
+    "num": "56",
+    "school": "IPN - UPIITA"
+   },
+   {
+    "num": "61",
+    "school": "Michigan Tech Univ"
+   },
+   {
+    "num": "64",
+    "school": "Univ of St Thomas"
+   },
+   {
+    "num": "73",
+    "school": "Auburn Univ"
+   },
+   {
+    "num": "74",
+    "school": "SUNY - Stony Brook"
+   },
+   {
+    "num": "79",
+    "school": "UQTR Drummondville"
+   },
+   {
+    "num": "81",
+    "school": "Univ of Dayton"
+   },
+   {
+    "num": "82",
+    "school": "Concordia University"
+   },
+   {
+    "num": "83",
+    "school": "Liberty Univ"
+   },
+   {
+    "num": "85",
+    "school": "Cleveland State Univ"
+   },
+   {
+    "num": "86",
+    "school": "New Mexico Inst of Mining & Tech"
+   },
+   {
+    "num": "90",
+    "school": "Universidad Politecnica de Queretaro"
+   },
+   {
+    "num": "91",
+    "school": "Ohio Univ"
+   },
+   {
+    "num": "94",
+    "school": "Univ of Tennessee"
+   },
+   {
+    "num": "96",
+    "school": "Missouri University of Science and Tech"
+   },
+   {
+    "num": "98",
+    "school": "Central Michigan Univ"
+   },
+   {
+    "num": "99",
+    "school": "Southern Illinois Univ - Edwardville"
+   },
+   {
+    "num": "101",
+    "school": "Universite Du Quebec at Rimouski"
+   },
+   {
+    "num": "105",
+    "school": "Universidad De La Salle Bajio"
+   },
+   {
+    "num": "113",
+    "school": "St Clair County Community College"
+   },
+   {
+    "num": "114",
+    "school": "Union Univ"
+   },
+   {
+    "num": "116",
+    "school": "Ferris State University"
+   },
+   {
+    "num": "119",
+    "school": "Univ of Notre Dame"
+   },
+   {
+    "num": "124",
+    "school": "Embry-Riddle Aero Univ - Daytona Beach"
+   },
+   {
+    "num": "125",
+    "school": "Clemson Univ"
+   },
+   {
+    "num": "131",
+    "school": "Univ of Windsor"
+   },
+   {
+    "num": "136",
+    "school": "West Virginia Univ Inst of Tech"
+   },
+   {
+    "num": "137",
+    "school": "Baylor Univ"
+   },
+   {
+    "num": "139",
+    "school": "Miami Univ"
+   },
+   {
+    "num": "143",
+    "school": "Wentworth Inst of Tech"
+   },
+   {
+    "num": "144",
+    "school": "Univ of Texas - Austin"
+   },
+   {
+    "num": "145",
+    "school": "Middle Tennessee State Univ"
+   },
+   {
+    "num": "146",
+    "school": "Western Michigan Univ"
+   },
+   {
+    "num": "148",
+    "school": "Univ of Guelph"
+   },
+   {
+    "num": "156",
+    "school": "Univ of Michigan - Flint"
+   },
+   {
+    "num": "157",
+    "school": "Andrews Univ"
+   },
+   {
+    "num": "159",
+    "school": "Stephen F. Austin State University"
+   },
+   {
+    "num": "161",
+    "school": "Univ of West Florida"
+   },
+   {
+    "num": "164",
+    "school": "Louisiana Tech Univ"
+   },
+   {
+    "num": "165",
+    "school": "Univ of Nebraska - Lincoln"
+   },
+   {
+    "num": "166",
+    "school": "Wichita State Univ"
+   },
+   {
+    "num": "169",
+    "school": "Colorado State University"
+   },
+   {
+    "num": "170",
+    "school": "City College of New York"
+   },
+   {
+    "num": "173",
+    "school": "California State Univ - Fresno"
+   },
+   {
+    "num": "177",
+    "school": "University of Massachusetts - Dartmouth"
+   },
+   {
+    "num": "179",
+    "school": "Instituto Tecnologico de Chihuahua"
+   },
+   {
+    "num": "181",
+    "school": "Wheaton College"
+   },
+   {
+    "num": "193",
+    "school": "Abilene Christian University"
+   },
+   {
+    "num": "195",
+    "school": "Univ of Colorado - Colorado Springs"
+   },
+   {
+    "num": "196",
+    "school": "Universidad Autonoma De Nuevo Leon"
+   },
+   {
+    "num": "198",
+    "school": "Universidad Autonoma Estado Mexico"
+   },
+   {
+    "num": "199",
+    "school": "Bradley Univ"
+   },
+   {
+    "num": "204",
+    "school": "Univ of Memphis"
+   },
+   {
+    "num": "206",
+    "school": "Univ of Southern Indiana"
+   },
+   {
+    "num": "210",
+    "school": "Univ of Wisconsin - Stout"
+   },
+   {
+    "num": "211",
+    "school": "Univ of Louisville"
+   },
+   {
+    "num": "220",
+    "school": "Univ of Detroit - Mercy"
+   },
+   {
+    "num": "221",
+    "school": "Universidad Ana G. Mendez - Gurabo Campus"
+   },
+   {
+    "num": "222",
+    "school": "Univ of Toledo"
+   },
+   {
+    "num": "225",
+    "school": "SAE Brasil"
+   }
+  ],
+  "waitlist": [
+   {
+    "pos": "12",
+    "num": "71",
+    "school": "Univ of Iowa"
+   },
+   {
+    "pos": "13",
+    "num": "112",
+    "school": "Milwaukee School of Engrg"
+   },
+   {
+    "pos": "14",
+    "num": "141",
+    "school": "Olivet Nazarene Univ"
+   },
+   {
+    "pos": "15",
+    "num": "168",
+    "school": "Old Dominion Univ"
+   },
+   {
+    "pos": "16",
+    "num": "39",
+    "school": "West Virginia Univ"
+   },
+   {
+    "pos": "17",
+    "num": "29",
+    "school": "Iowa State Univ"
+   },
+   {
+    "pos": "18",
+    "num": "52",
+    "school": "Harding Univ"
+   },
+   {
+    "pos": "19",
+    "num": "23",
+    "school": "Western University"
+   },
+   {
+    "pos": "20",
+    "num": "19",
+    "school": "McMaster Univ"
+   },
+   {
+    "pos": "21",
+    "num": "16",
+    "school": "California Polytechnic State Univ-SLO"
+   },
+   {
+    "pos": "22",
+    "num": "48",
+    "school": "California State Poly Univ - Pomona"
+   },
+   {
+    "pos": "23",
+    "num": "100",
+    "school": "Stevens Institute of Technology"
+   },
+   {
+    "pos": "24",
+    "num": "66",
+    "school": "Univ of Manitoba"
+   },
+   {
+    "pos": "25",
+    "num": "227",
+    "school": "Univ of Illinois - Chicago"
+   },
+   {
+    "pos": "26",
+    "num": "122",
+    "school": "Univ of Pittsburgh - Johnstown"
+   },
+   {
+    "pos": "27",
+    "num": "93",
+    "school": "Olin College of Engineering"
+   },
+   {
+    "pos": "28",
+    "num": "17",
+    "school": "Université Laval"
+   },
+   {
+    "pos": "30",
+    "num": "132",
+    "school": "Univ of Calif - San Diego"
+   },
+   {
+    "pos": "31",
+    "num": "228",
+    "school": "Univ of Toronto"
+   },
+   {
+    "pos": "32",
+    "num": "229",
+    "school": "Northern Michigan Univ"
+   },
+   {
+    "pos": "33",
+    "num": "230",
+    "school": "Southern Illinois Univ at Carbondale"
+   },
+   {
+    "pos": "34",
+    "num": "231",
+    "school": "Univ of Wisconsin - Milwaukee"
+   },
+   {
+    "pos": "35",
+    "num": "147",
+    "school": "Univ of Waterloo"
+   },
+   {
+    "pos": "36",
+    "num": "135",
+    "school": "Univ of Ottawa"
+   }
+  ]
+ },
+ "_heartbeat": "2026-10"
+}
