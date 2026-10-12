@@ -146,10 +146,6 @@
     "school": "Univ of Calgary"
    },
    {
-    "num": "44",
-    "school": "SUNY- Farmingdale"
-   },
-   {
     "num": "47",
     "school": "Univ of Missouri - Kansas City"
    },
@@ -248,6 +244,10 @@
    {
     "num": "89",
     "school": "Penn State Univ - Altoona"
+   },
+   {
+    "num": "91",
+    "school": "Ohio Univ"
    },
    {
     "num": "92",
@@ -366,6 +366,10 @@
     "school": "Shippensburg University"
    },
    {
+    "num": "162",
+    "school": "Univ of Regina"
+   },
+   {
     "num": "163",
     "school": "Davidson College"
    },
@@ -396,10 +400,6 @@
    {
     "num": "189",
     "school": "K J Somaiya School Of Engineering"
-   },
-   {
-    "num": "196",
-    "school": "Universidad Autonoma De Nuevo Leon"
    },
    {
     "num": "205",
@@ -443,16 +443,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "29",
-    "num": "162",
-    "school": "Univ of Regina"
-   },
-   {
-    "pos": "30",
-    "num": "91",
-    "school": "Ohio Univ"
-   },
    {
     "pos": "31",
     "num": "66",
