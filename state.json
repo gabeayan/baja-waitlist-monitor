@@ -186,6 +186,10 @@
     "school": "Univ of Arizona"
    },
    {
+    "num": "66",
+    "school": "Univ of Manitoba"
+   },
+   {
     "num": "67",
     "school": "Univ of Alabama - Tuscaloosa"
    },
@@ -296,10 +300,6 @@
    {
     "num": "120",
     "school": "Gonzaga University"
-   },
-   {
-    "num": "121",
-    "school": "Univ of San Diego"
    },
    {
     "num": "124",
@@ -443,11 +443,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "31",
-    "num": "66",
-    "school": "Univ of Manitoba"
-   },
    {
     "pos": "32",
     "num": "211",
