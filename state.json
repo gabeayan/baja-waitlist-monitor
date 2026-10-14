@@ -114,10 +114,6 @@
     "school": "Binghamton Univ"
    },
    {
-    "num": "33",
-    "school": "University of Mount Union"
-   },
-   {
     "num": "34",
     "school": "Univ of Central Florida"
    },
@@ -274,8 +270,8 @@
     "school": "New York University"
    },
    {
-    "num": "103",
-    "school": "Univ of British Columbia"
+    "num": "100",
+    "school": "Stevens Institute of Technology"
    },
    {
     "num": "109",
@@ -334,10 +330,6 @@
     "school": "Olivet Nazarene Univ"
    },
    {
-    "num": "143",
-    "school": "Wentworth Inst of Tech"
-   },
-   {
     "num": "144",
     "school": "Univ of Texas - Austin"
    },
@@ -386,10 +378,6 @@
     "school": "Old Dominion Univ"
    },
    {
-    "num": "171",
-    "school": "Northern Arizona - Yuma"
-   },
-   {
     "num": "172",
     "school": "Grace College"
    },
@@ -398,8 +386,16 @@
     "school": "Ecole Nationale D'Aerotechnique"
    },
    {
+    "num": "188",
+    "school": "Pittsburg State University"
+   },
+   {
     "num": "189",
     "school": "K J Somaiya School Of Engineering"
+   },
+   {
+    "num": "199",
+    "school": "Bradley Univ"
    },
    {
     "num": "205",
@@ -416,6 +412,10 @@
    {
     "num": "210",
     "school": "Univ of Wisconsin - Stout"
+   },
+   {
+    "num": "211",
+    "school": "Univ of Louisville"
    },
    {
     "num": "212",
@@ -443,26 +443,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "32",
-    "num": "211",
-    "school": "Univ of Louisville"
-   },
-   {
-    "pos": "33",
-    "num": "199",
-    "school": "Bradley Univ"
-   },
-   {
-    "pos": "34",
-    "num": "188",
-    "school": "Pittsburg State University"
-   },
-   {
-    "pos": "35",
-    "num": "100",
-    "school": "Stevens Institute of Technology"
-   },
    {
     "pos": "36",
     "num": "131",
@@ -835,6 +815,10 @@
     "school": "Univ of St Thomas"
    },
    {
+    "num": "71",
+    "school": "Univ of Iowa"
+   },
+   {
     "num": "73",
     "school": "Auburn Univ"
    },
@@ -897,6 +881,10 @@
    {
     "num": "105",
     "school": "Universidad De La Salle Bajio"
+   },
+   {
+    "num": "112",
+    "school": "Milwaukee School of Engrg"
    },
    {
     "num": "113",
@@ -1023,10 +1011,6 @@
     "school": "Universidad Autonoma De Nuevo Leon"
    },
    {
-    "num": "198",
-    "school": "Universidad Autonoma Estado Mexico"
-   },
-   {
     "num": "199",
     "school": "Bradley Univ"
    },
@@ -1037,10 +1021,6 @@
    {
     "num": "206",
     "school": "Univ of Southern Indiana"
-   },
-   {
-    "num": "210",
-    "school": "Univ of Wisconsin - Stout"
    },
    {
     "num": "211",
@@ -1064,16 +1044,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "12",
-    "num": "71",
-    "school": "Univ of Iowa"
-   },
-   {
-    "pos": "13",
-    "num": "112",
-    "school": "Milwaukee School of Engrg"
-   },
    {
     "pos": "14",
     "num": "141",
