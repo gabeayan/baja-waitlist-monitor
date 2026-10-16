@@ -310,6 +310,10 @@
     "school": "Lehigh Univ"
    },
    {
+    "num": "131",
+    "school": "Univ of Windsor"
+   },
+   {
     "num": "133",
     "school": "Union College"
    },
@@ -386,10 +390,6 @@
     "school": "Ecole Nationale D'Aerotechnique"
    },
    {
-    "num": "188",
-    "school": "Pittsburg State University"
-   },
-   {
     "num": "189",
     "school": "K J Somaiya School Of Engineering"
    },
@@ -443,11 +443,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "36",
-    "num": "131",
-    "school": "Univ of Windsor"
-   },
    {
     "pos": "38",
     "num": "148",
