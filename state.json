@@ -342,6 +342,10 @@
     "school": "Western Michigan Univ"
    },
    {
+    "num": "148",
+    "school": "Univ of Guelph"
+   },
+   {
     "num": "149",
     "school": "Lawrence Technological Univ"
    },
@@ -414,10 +418,6 @@
     "school": "Univ of Wisconsin - Stout"
    },
    {
-    "num": "211",
-    "school": "Univ of Louisville"
-   },
-   {
     "num": "212",
     "school": "Dordt University"
    },
@@ -443,11 +443,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "38",
-    "num": "148",
-    "school": "Univ of Guelph"
-   },
    {
     "pos": "39",
     "num": "42",
