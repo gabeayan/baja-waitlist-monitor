@@ -818,10 +818,6 @@
     "school": "Auburn Univ"
    },
    {
-    "num": "74",
-    "school": "SUNY - Stony Brook"
-   },
-   {
     "num": "79",
     "school": "UQTR Drummondville"
    },
@@ -920,6 +916,10 @@
    {
     "num": "139",
     "school": "Miami Univ"
+   },
+   {
+    "num": "141",
+    "school": "Olivet Nazarene Univ"
    },
    {
     "num": "143",
@@ -1039,11 +1039,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "14",
-    "num": "141",
-    "school": "Olivet Nazarene Univ"
-   },
    {
     "pos": "15",
     "num": "168",
