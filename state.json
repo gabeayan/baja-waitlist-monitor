@@ -899,10 +899,6 @@
     "school": "Univ of Notre Dame"
    },
    {
-    "num": "124",
-    "school": "Embry-Riddle Aero Univ - Daytona Beach"
-   },
-   {
     "num": "125",
     "school": "Clemson Univ"
    },
@@ -975,6 +971,10 @@
     "school": "Wichita State Univ"
    },
    {
+    "num": "168",
+    "school": "Old Dominion Univ"
+   },
+   {
     "num": "169",
     "school": "Colorado State University"
    },
@@ -1044,11 +1044,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "15",
-    "num": "168",
-    "school": "Old Dominion Univ"
-   },
    {
     "pos": "16",
     "num": "39",
