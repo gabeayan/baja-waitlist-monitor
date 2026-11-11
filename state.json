@@ -763,6 +763,10 @@
     "school": "SUNY - Buffalo"
    },
    {
+    "num": "39",
+    "school": "West Virginia Univ"
+   },
+   {
     "num": "40",
     "school": "Kettering Univ"
    },
@@ -971,10 +975,6 @@
     "school": "Wichita State Univ"
    },
    {
-    "num": "168",
-    "school": "Old Dominion Univ"
-   },
-   {
     "num": "169",
     "school": "Colorado State University"
    },
@@ -1044,11 +1044,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "16",
-    "num": "39",
-    "school": "West Virginia Univ"
-   },
    {
     "pos": "17",
     "num": "29",
