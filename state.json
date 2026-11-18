@@ -142,6 +142,10 @@
     "school": "Univ of Calgary"
    },
    {
+    "num": "42",
+    "school": "North Carolina A & T State Univ"
+   },
+   {
     "num": "47",
     "school": "Univ of Missouri - Kansas City"
    },
@@ -436,18 +440,9 @@
    {
     "num": "219",
     "school": "Syracuse Univ"
-   },
-   {
-    "num": "224",
-    "school": "SAE Brasil"
    }
   ],
   "waitlist": [
-   {
-    "pos": "39",
-    "num": "42",
-    "school": "North Carolina A & T State Univ"
-   },
    {
     "pos": "40",
     "num": "193",
