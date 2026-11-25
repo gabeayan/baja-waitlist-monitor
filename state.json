@@ -739,6 +739,10 @@
     "school": "Pennsylvania College of Technology"
    },
    {
+    "num": "29",
+    "school": "Iowa State Univ"
+   },
+   {
     "num": "30",
     "school": "Youngstown State Univ"
    },
@@ -967,10 +971,6 @@
     "school": "Louisiana Tech Univ"
    },
    {
-    "num": "165",
-    "school": "Univ of Nebraska - Lincoln"
-   },
-   {
     "num": "166",
     "school": "Wichita State Univ"
    },
@@ -1044,11 +1044,6 @@
    }
   ],
   "waitlist": [
-   {
-    "pos": "17",
-    "num": "29",
-    "school": "Iowa State Univ"
-   },
    {
     "pos": "18",
     "num": "52",
